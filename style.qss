@@ -1,0 +1,9 @@
+QPushButton#pushButton{
+	border-image:url(:/button_png/t1.png);
+}
+QPushButton#pushButton:hover{
+	border-image:url(:/button_png/t2.png);
+}
+QPushButton#pushButton:pressed{
+	border-image:url(:/button_png/t1.png);
+}
