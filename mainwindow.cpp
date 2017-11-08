@@ -21,4 +21,5 @@ void MainWindow::on_pushButton_clicked()
     qDebug()<<"当前目录:"+dir->absolutePath();、
     qDebug()<<"666";
     QDebug()<<"777";
+    fdfsd;
 }
